@@ -2,13 +2,13 @@
 <rect height="750" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">[MODE_BUILD=buildApidoc] - 2018-01-28T02:29:22.526Z - npm-testing /home/travis/build/kaizhu256/n\</tspan>
+<tspan x="10" y="42">[MODE_BUILD=buildApidoc] - 2018-01-28T02:50:59.994Z - npm-testing /home/travis/build/kaizhu256/n\</tspan>
 <tspan x="10" y="58">ode-visualization</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
 <tspan x="10" y="106">buildApidoc - merged test-report from file /home/travis/build/kaizhu256/node-visualization/tmp/b\</tspan>
 <tspan x="10" y="122">uild/test-report.json</tspan>
-<tspan x="10" y="138">&gt; server listening on http-port 36968</tspan>
+<tspan x="10" y="138">&gt; server listening on http-port 44828</tspan>
 <tspan x="10" y="154">apidocCreate - readExample /home/travis/build/kaizhu256/node-visualization/package.json</tspan>
 <tspan x="10" y="170">apidocCreate - readExample /home/travis/build/kaizhu256/node-visualization/.gitignore</tspan>
 <tspan x="10" y="186">apidocCreate - readExample /home/travis/build/kaizhu256/node-visualization/lib.visualization.js</tspan>
@@ -27,15 +27,15 @@
 <tspan x="10" y="394">uild/test-report.json</tspan>
 <tspan x="10" y="410"></tspan>
 <tspan x="10" y="426">-------------------------------------------------------</tspan>
-<tspan x="10" y="442">| test-report - buildApidoc - node - linux v6.12.3 - 2018-01-28T02:29:22.755Z</tspan>
-<tspan x="10" y="458">|     121 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="442">| test-report - buildApidoc - node - linux v6.12.3 - 2018-01-28T02:51:00.217Z</tspan>
+<tspan x="10" y="458">|     123 ms            0 failed        1 passed      |</tspan>
 <tspan x="10" y="474">-------------------------------------------------------</tspan>
 <tspan x="10" y="490">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="506">L, like Gecko) Chrome/56.0.2924.87 Electron/1.6.15 Safari/537.36 - 2018-01-28T02:29:04.982Z</tspan>
-<tspan x="10" y="522">|      26 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="506">L, like Gecko) Chrome/56.0.2924.87 Electron/1.6.15 Safari/537.36 - 2018-01-28T02:50:42.655Z</tspan>
+<tspan x="10" y="522">|      38 ms            0 failed        8 passed      |</tspan>
 <tspan x="10" y="538">-------------------------------------------------------</tspan>
-<tspan x="10" y="554">| test-report - npmTest - node - linux v6.12.3 - 2018-01-28T02:29:03.055Z</tspan>
-<tspan x="10" y="570">|   16437 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="554">| test-report - npmTest - node - linux v6.12.3 - 2018-01-28T02:50:41.027Z</tspan>
+<tspan x="10" y="570">|   16148 ms            0 failed        8 passed      |</tspan>
 <tspan x="10" y="586">-------------------------------------------------------</tspan>
 <tspan x="10" y="602"></tspan>
 <tspan x="10" y="618">created test-report file /home/travis/build/kaizhu256/node-visualization/tmp/build/test-report.h\</tspan>
@@ -45,6 +45,6 @@
 <tspan x="10" y="682">buildApidoc - 0 failed tests</tspan>
 <tspan x="10" y="698"></tspan>
 <tspan x="10" y="714"></tspan>
-<tspan x="10" y="730">[MODE_BUILD=buildApidoc] - 2018-01-28T02:29:25.034Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="730">[MODE_BUILD=buildApidoc] - 2018-01-28T02:51:02.484Z - EXIT_CODE - 0</tspan>
 </text>
 </svg>
