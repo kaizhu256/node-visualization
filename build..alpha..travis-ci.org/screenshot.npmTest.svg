@@ -2,7 +2,7 @@
 <rect height="2286" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">[MODE_BUILD=npmTest] - 2018-01-28T02:13:00.714Z - npm-testing /home/travis/build/kaizhu256/node-\</tspan>
+<tspan x="10" y="42">[MODE_BUILD=npmTest] - 2018-01-28T02:20:37.317Z - npm-testing /home/travis/build/kaizhu256/node-\</tspan>
 <tspan x="10" y="58">visualization</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
@@ -11,7 +11,7 @@
 <tspan x="10" y="138"></tspan>
 <tspan x="10" y="154">npmTest - merged test-report from file /home/travis/build/kaizhu256/node-visualization/tmp/build\</tspan>
 <tspan x="10" y="170">/test-report.json</tspan>
-<tspan x="10" y="186">&gt; server listening on http-port 45840</tspan>
+<tspan x="10" y="186">&gt; server listening on http-port 57124</tspan>
 <tspan x="10" y="202">apidocCreate - readExample /home/travis/build/kaizhu256/node-visualization/package.json</tspan>
 <tspan x="10" y="218">apidocCreate - readExample /home/travis/build/kaizhu256/node-visualization/.gitignore</tspan>
 <tspan x="10" y="234">apidocCreate - readExample /home/travis/build/kaizhu256/node-visualization/lib.visualization.js</tspan>
@@ -33,65 +33,65 @@
 <tspan x="10" y="490">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="506"></tspan>
 <tspan x="10" y="522">browserTest - created electron entry-page /home/travis/build/kaizhu256/node-visualization/tmp/el\</tspan>
-<tspan x="10" y="538">ectron.1613a8a10b60.f03e6ecc61531.html</tspan>
+<tspan x="10" y="538">ectron.1613a91094c0.f2a38b2f01382.html</tspan>
 <tspan x="10" y="554"></tspan>
 <tspan x="10" y="570">&gt; Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="586">server listening on http-port 45382</tspan>
-<tspan x="10" y="602">[5471:0128/021302.356971:WARNING:audio_manager.cc(317)] Multiple instances of AudioManager detec\</tspan>
+<tspan x="10" y="586">server listening on http-port 51956</tspan>
+<tspan x="10" y="602">[5292:0128/022039.196524:WARNING:audio_manager.cc(317)] Multiple instances of AudioManager detec\</tspan>
 <tspan x="10" y="618">ted</tspan>
-<tspan x="10" y="634">[5471:0128/021302.357060:WARNING:audio_manager.cc(278)] Multiple instances of AudioManager detec\</tspan>
+<tspan x="10" y="634">[5292:0128/022039.196642:WARNING:audio_manager.cc(278)] Multiple instances of AudioManager detec\</tspan>
 <tspan x="10" y="650">ted</tspan>
-<tspan x="10" y="666">[5502:0128/021302.401936:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple t\</tspan>
+<tspan x="10" y="666">[5324:0128/022039.240476:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple t\</tspan>
 <tspan x="10" y="682">hreads in process gpu-process. </tspan>
-<tspan x="10" y="698">[5471:0128/021302.461079:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="698">[5292:0128/022039.303787:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
 <tspan x="10" y="714">l.</tspan>
-<tspan x="10" y="730">[5471:0128/021302.461988:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="730">[5292:0128/022039.312635:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
 <tspan x="10" y="746">l.</tspan>
-<tspan x="10" y="762">[5471:0128/021302.462854:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="762">[5292:0128/022039.317156:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
 <tspan x="10" y="778">l.</tspan>
-<tspan x="10" y="794">[5471:0128/021302.472096:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="794">[5292:0128/022039.318350:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
 <tspan x="10" y="810">l.</tspan>
-<tspan x="10" y="826">[5471:0128/021302.475121:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="826">[5292:0128/022039.319442:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
 <tspan x="10" y="842">l.</tspan>
 <tspan x="10" y="858"></tspan>
-<tspan x="10" y="874">browserTest - opened http://127.0.0.1:45840?modeTest=1</tspan>
+<tspan x="10" y="874">browserTest - opened http://127.0.0.1:57124?modeTest=1</tspan>
 <tspan x="10" y="890"></tspan>
-<tspan x="10" y="906">[5471:0128/021303.173191:INFO:CONSOLE(71)] "[browser test-case 1 of 8 passed] - testCase_buildAp\</tspan>
+<tspan x="10" y="906">[5292:0128/022040.045629:INFO:CONSOLE(71)] "[browser test-case 1 of 8 passed] - testCase_buildAp\</tspan>
 <tspan x="10" y="922">idoc_default", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a\</tspan>
-<tspan x="10" y="938">8a10b60.f03e6ecc61531.html (71)</tspan>
-<tspan x="10" y="954">[5471:0128/021303.186537:INFO:CONSOLE(71)] "[browser test-case 2 of 8 passed] - testCase_buildAp\</tspan>
-<tspan x="10" y="970">p_default", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a8a1\</tspan>
-<tspan x="10" y="986">0b60.f03e6ecc61531.html (71)</tspan>
-<tspan x="10" y="1002">[5471:0128/021303.186846:INFO:CONSOLE(71)] "[browser test-case 3 of 8 passed] - testCase_buildCu\</tspan>
+<tspan x="10" y="938">91094c0.f2a38b2f01382.html (71)</tspan>
+<tspan x="10" y="954">[5292:0128/022040.056508:INFO:CONSOLE(71)] "[browser test-case 2 of 8 passed] - testCase_buildAp\</tspan>
+<tspan x="10" y="970">p_default", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a910\</tspan>
+<tspan x="10" y="986">94c0.f2a38b2f01382.html (71)</tspan>
+<tspan x="10" y="1002">[5292:0128/022040.059357:INFO:CONSOLE(71)] "[browser test-case 3 of 8 passed] - testCase_buildCu\</tspan>
 <tspan x="10" y="1018">stomOrg_default", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.16\</tspan>
-<tspan x="10" y="1034">13a8a10b60.f03e6ecc61531.html (71)</tspan>
-<tspan x="10" y="1050">[5471:0128/021303.187992:INFO:CONSOLE(71)] "[browser test-case 4 of 8 passed] - testCase_buildLi\</tspan>
-<tspan x="10" y="1066">b_default", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a8a1\</tspan>
-<tspan x="10" y="1082">0b60.f03e6ecc61531.html (71)</tspan>
-<tspan x="10" y="1098">[5471:0128/021303.189367:INFO:CONSOLE(71)] "[browser test-case 5 of 8 passed] - testCase_buildRe\</tspan>
+<tspan x="10" y="1034">13a91094c0.f2a38b2f01382.html (71)</tspan>
+<tspan x="10" y="1050">[5292:0128/022040.062606:INFO:CONSOLE(71)] "[browser test-case 4 of 8 passed] - testCase_buildLi\</tspan>
+<tspan x="10" y="1066">b_default", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a910\</tspan>
+<tspan x="10" y="1082">94c0.f2a38b2f01382.html (71)</tspan>
+<tspan x="10" y="1098">[5292:0128/022040.065219:INFO:CONSOLE(71)] "[browser test-case 5 of 8 passed] - testCase_buildRe\</tspan>
 <tspan x="10" y="1114">adme_default", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a\</tspan>
-<tspan x="10" y="1130">8a10b60.f03e6ecc61531.html (71)</tspan>
-<tspan x="10" y="1146">[5471:0128/021303.192274:INFO:CONSOLE(71)] "[browser test-case 6 of 8 passed] - testCase_buildTe\</tspan>
-<tspan x="10" y="1162">st_default", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a8a\</tspan>
-<tspan x="10" y="1178">10b60.f03e6ecc61531.html (71)</tspan>
-<tspan x="10" y="1194">[5471:0128/021303.194085:INFO:CONSOLE(71)] "[browser test-case 7 of 8 passed] - testCase_nop_def\</tspan>
-<tspan x="10" y="1210">ault", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a8a10b60.\</tspan>
-<tspan x="10" y="1226">f03e6ecc61531.html (71)</tspan>
-<tspan x="10" y="1242">[5471:0128/021303.194335:INFO:CONSOLE(71)] "[browser test-case 8 of 8 passed] - testCase_webpage\</tspan>
-<tspan x="10" y="1258">_default", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a8a10\</tspan>
-<tspan x="10" y="1274">b60.f03e6ecc61531.html (71)</tspan>
-<tspan x="10" y="1290">[5471:0128/021304.199937:INFO:CONSOLE(71)] "----------|-----------|-----------|-----------|-----\</tspan>
+<tspan x="10" y="1130">91094c0.f2a38b2f01382.html (71)</tspan>
+<tspan x="10" y="1146">[5292:0128/022040.071226:INFO:CONSOLE(71)] "[browser test-case 6 of 8 passed] - testCase_buildTe\</tspan>
+<tspan x="10" y="1162">st_default", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a91\</tspan>
+<tspan x="10" y="1178">094c0.f2a38b2f01382.html (71)</tspan>
+<tspan x="10" y="1194">[5292:0128/022040.073225:INFO:CONSOLE(71)] "[browser test-case 7 of 8 passed] - testCase_nop_def\</tspan>
+<tspan x="10" y="1210">ault", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a91094c0.\</tspan>
+<tspan x="10" y="1226">f2a38b2f01382.html (71)</tspan>
+<tspan x="10" y="1242">[5292:0128/022040.075636:INFO:CONSOLE(71)] "[browser test-case 8 of 8 passed] - testCase_webpage\</tspan>
+<tspan x="10" y="1258">_default", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a9109\</tspan>
+<tspan x="10" y="1274">4c0.f2a38b2f01382.html (71)</tspan>
+<tspan x="10" y="1290">[5292:0128/022041.084947:INFO:CONSOLE(71)] "----------|-----------|-----------|-----------|-----\</tspan>
 <tspan x="10" y="1306">------|</tspan>
 <tspan x="10" y="1322">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 <tspan x="10" y="1338">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="1354">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="1370">All files |       100 |       100 |       100 |       100 |</tspan>
 <tspan x="10" y="1386">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="1402">", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a8a10b60.f03e\</tspan>
-<tspan x="10" y="1418">6ecc61531.html (71)</tspan>
-<tspan x="10" y="1434">[5471:0128/021304.206527:INFO:CONSOLE(71)] "created coverage file /tmp/build/coverage.html/index\</tspan>
-<tspan x="10" y="1450">.html", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a8a10b60\</tspan>
-<tspan x="10" y="1466">.f03e6ecc61531.html (71)</tspan>
+<tspan x="10" y="1402">", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a91094c0.f2a3\</tspan>
+<tspan x="10" y="1418">8b2f01382.html (71)</tspan>
+<tspan x="10" y="1434">[5292:0128/022041.096420:INFO:CONSOLE(71)] "created coverage file /tmp/build/coverage.html/index\</tspan>
+<tspan x="10" y="1450">.html", source: file:///home/travis/build/kaizhu256/node-visualization/tmp/electron.1613a91094c0\</tspan>
+<tspan x="10" y="1466">.f2a38b2f01382.html (71)</tspan>
 <tspan x="10" y="1482">[node test-case 7 of 8 passed] - testCase_buildApp_default</tspan>
 <tspan x="10" y="1498"></tspan>
 <tspan x="10" y="1514">browserTest - created screenshot file /home/travis/build/kaizhu256/node-visualization/tmp/build/\</tspan>
@@ -127,11 +127,11 @@
 <tspan x="10" y="1994"></tspan>
 <tspan x="10" y="2010">-------------------------------------------------------</tspan>
 <tspan x="10" y="2026">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="2042">L, like Gecko) Chrome/56.0.2924.87 Electron/1.6.15 Safari/537.36 - 2018-01-28T02:13:03.108Z</tspan>
-<tspan x="10" y="2058">|      29 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="2042">L, like Gecko) Chrome/56.0.2924.87 Electron/1.6.15 Safari/537.36 - 2018-01-28T02:20:39.975Z</tspan>
+<tspan x="10" y="2058">|      39 ms            0 failed        8 passed      |</tspan>
 <tspan x="10" y="2074">-------------------------------------------------------</tspan>
-<tspan x="10" y="2090">| test-report - npmTest - node - linux v6.12.3 - 2018-01-28T02:13:01.007Z</tspan>
-<tspan x="10" y="2106">|   16541 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="2090">| test-report - npmTest - node - linux v6.12.3 - 2018-01-28T02:20:37.632Z</tspan>
+<tspan x="10" y="2106">|   16740 ms            0 failed        8 passed      |</tspan>
 <tspan x="10" y="2122">-------------------------------------------------------</tspan>
 <tspan x="10" y="2138"></tspan>
 <tspan x="10" y="2154">created test-report file /home/travis/build/kaizhu256/node-visualization/tmp/build/test-report.h\</tspan>
@@ -141,6 +141,6 @@
 <tspan x="10" y="2218">npmTest - 0 failed tests</tspan>
 <tspan x="10" y="2234"></tspan>
 <tspan x="10" y="2250"></tspan>
-<tspan x="10" y="2266">[MODE_BUILD=npmTest] - 2018-01-28T02:13:19.322Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="2266">[MODE_BUILD=npmTest] - 2018-01-28T02:20:56.216Z - EXIT_CODE - 0</tspan>
 </text>
 </svg>
