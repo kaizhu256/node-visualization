@@ -6,8 +6,8 @@
 <tspan x="10" y="58">&gt; [ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90">/tmp/app</tspan>
-<tspan x="10" y="106">└── visualization@0.0.2  (git://github.com/kaizhu256/node-visualization.git#58732b63bd61dde55e98\</tspan>
-<tspan x="10" y="122">0373c4a43372ace4881c)</tspan>
+<tspan x="10" y="106">└── visualization@0.0.2  (git://github.com/kaizhu256/node-visualization.git#186829c8f8f8fc3e5f55\</tspan>
+<tspan x="10" y="122">6aaf91c48cd61c04c55d)</tspan>
 <tspan x="10" y="138"></tspan>
 <tspan x="10" y="154">npm WARN enoent ENOENT: no such file or directory, open '/tmp/app/package.json'</tspan>
 <tspan x="10" y="170">npm WARN app No description</tspan>
