@@ -2,29 +2,28 @@
 visualization app
 
 # live web demo
-- [https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/app](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/app)
+- [https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/app](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/app)
 
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.deployGithub.browser.%252Fvisualization%252Fbuild%252Fapp.png)](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/app)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithub.browser.%252Fnode-visualization%252Fbuild%252Fapp.png)](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/app)
 
 
 
-[![travis-ci.org build-status](https://api.travis-ci.org/kaizhu256/visualization.svg)](https://travis-ci.org/kaizhu256/visualization) [![coverage](https://kaizhu256.github.io/visualization/build/coverage.badge.svg)](https://kaizhu256.github.io/visualization/build/coverage.html/index.html) [![snyk.io vulnerabilities](https://snyk.io/test/github/kaizhu256/visualization/badge.svg)](https://snyk.io/test/github/kaizhu256/visualization)
+[![travis-ci.org build-status](https://api.travis-ci.org/kaizhu256/node-visualization.svg)](https://travis-ci.org/kaizhu256/node-visualization) [![coverage](https://kaizhu256.github.io/node-visualization/build/coverage.badge.svg)](https://kaizhu256.github.io/node-visualization/build/coverage.html/index.html) [![snyk.io vulnerabilities](https://snyk.io/test/github/kaizhu256/node-visualization/badge.svg)](https://snyk.io/test/github/kaizhu256/node-visualization)
 
 [![NPM](https://nodei.co/npm/visualization.png?downloads=true)](https://www.npmjs.com/package/visualization)
 
-[![build commit status](https://kaizhu256.github.io/visualization/build/build.badge.svg)](https://travis-ci.org/kaizhu256/visualization)
+[![build commit status](https://kaizhu256.github.io/node-visualization/build/build.badge.svg)](https://travis-ci.org/kaizhu256/node-visualization)
 
-| git-branch : | [master](https://github.com/kaizhu256/visualization/tree/master) | [beta](https://github.com/kaizhu256/visualization/tree/beta) | [alpha](https://github.com/kaizhu256/visualization/tree/alpha)|
+| git-branch : | [master](https://github.com/kaizhu256/node-visualization/tree/master) | [beta](https://github.com/kaizhu256/node-visualization/tree/beta) | [alpha](https://github.com/kaizhu256/node-visualization/tree/alpha)|
 |--:|:--|:--|:--|
-| test-server-github : | [![github.com test-server](https://kaizhu256.github.io/visualization/GitHub-Mark-32px.png)](https://kaizhu256.github.io/visualization/build..master..travis-ci.org/app) | [![github.com test-server](https://kaizhu256.github.io/visualization/GitHub-Mark-32px.png)](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/app) | [![github.com test-server](https://kaizhu256.github.io/visualization/GitHub-Mark-32px.png)](https://kaizhu256.github.io/visualization/build..alpha..travis-ci.org/app)|
-| test-server-heroku : | [![heroku.com test-server](https://kaizhu256.github.io/visualization/heroku-logo.75x25.png)](https://h1-visualization-master.herokuapp.com) | [![heroku.com test-server](https://kaizhu256.github.io/visualization/heroku-logo.75x25.png)](https://h1-visualization-beta.herokuapp.com) | [![heroku.com test-server](https://kaizhu256.github.io/visualization/heroku-logo.75x25.png)](https://h1-visualization-alpha.herokuapp.com)|
-| test-report : | [![test-report](https://kaizhu256.github.io/visualization/build..master..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/visualization/build..master..travis-ci.org/test-report.html) | [![test-report](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/test-report.html) | [![test-report](https://kaizhu256.github.io/visualization/build..alpha..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/visualization/build..alpha..travis-ci.org/test-report.html)|
-| coverage : | [![coverage](https://kaizhu256.github.io/visualization/build..master..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/visualization/build..master..travis-ci.org/coverage.html/index.html) | [![coverage](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/coverage.html/index.html) | [![coverage](https://kaizhu256.github.io/visualization/build..alpha..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/visualization/build..alpha..travis-ci.org/coverage.html/index.html)|
-| build-artifacts : | [![build-artifacts](https://kaizhu256.github.io/visualization/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/visualization/tree/gh-pages/build..master..travis-ci.org) | [![build-artifacts](https://kaizhu256.github.io/visualization/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/visualization/tree/gh-pages/build..beta..travis-ci.org) | [![build-artifacts](https://kaizhu256.github.io/visualization/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/visualization/tree/gh-pages/build..alpha..travis-ci.org)|
+| test-server-github : | [![github.com test-server](https://kaizhu256.github.io/node-visualization/GitHub-Mark-32px.png)](https://kaizhu256.github.io/node-visualization/build..master..travis-ci.org/app) | [![github.com test-server](https://kaizhu256.github.io/node-visualization/GitHub-Mark-32px.png)](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/app) | [![github.com test-server](https://kaizhu256.github.io/node-visualization/GitHub-Mark-32px.png)](https://kaizhu256.github.io/node-visualization/build..alpha..travis-ci.org/app)|
+| test-report : | [![test-report](https://kaizhu256.github.io/node-visualization/build..master..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/node-visualization/build..master..travis-ci.org/test-report.html) | [![test-report](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/test-report.html) | [![test-report](https://kaizhu256.github.io/node-visualization/build..alpha..travis-ci.org/test-report.badge.svg)](https://kaizhu256.github.io/node-visualization/build..alpha..travis-ci.org/test-report.html)|
+| coverage : | [![coverage](https://kaizhu256.github.io/node-visualization/build..master..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/node-visualization/build..master..travis-ci.org/coverage.html/index.html) | [![coverage](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/coverage.html/index.html) | [![coverage](https://kaizhu256.github.io/node-visualization/build..alpha..travis-ci.org/coverage.badge.svg)](https://kaizhu256.github.io/node-visualization/build..alpha..travis-ci.org/coverage.html/index.html)|
+| build-artifacts : | [![build-artifacts](https://kaizhu256.github.io/node-visualization/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/node-visualization/tree/gh-pages/build..master..travis-ci.org) | [![build-artifacts](https://kaizhu256.github.io/node-visualization/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/node-visualization/tree/gh-pages/build..beta..travis-ci.org) | [![build-artifacts](https://kaizhu256.github.io/node-visualization/glyphicons_144_folder_open.png)](https://github.com/kaizhu256/node-visualization/tree/gh-pages/build..alpha..travis-ci.org)|
 
-[![npmPackageListing](https://kaizhu256.github.io/visualization/build/screenshot.npmPackageListing.svg)](https://github.com/kaizhu256/visualization)
+[![npmPackageListing](https://kaizhu256.github.io/node-visualization/build/screenshot.npmPackageListing.svg)](https://github.com/kaizhu256/node-visualization)
 
-![npmPackageDependencyTree](https://kaizhu256.github.io/visualization/build/screenshot.npmPackageDependencyTree.svg)
+![npmPackageDependencyTree](https://kaizhu256.github.io/node-visualization/build/screenshot.npmPackageDependencyTree.svg)
 
 
 
@@ -42,23 +41,25 @@ visualization app
 
 
 # cdn download
-- [https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/app/assets.visualization.js](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/app/assets.visualization.js)
+- [https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/app/assets.visualization.js](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/app/assets.visualization.js)
 
 
 
 # documentation
 #### cli help
-![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.npmPackageCliHelp.svg)
+![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.npmPackageCliHelp.svg)
 
 #### api doc
-- [https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/apidoc.html](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/apidoc.html)
+- [https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/apidoc.html](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/apidoc.html)
 
-[![apidoc](https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/apidoc.html)
 
 #### todo
 - none
 
 #### changelog for v0.0.2
+- npm publish v0.0.2
+- initial app
 - none
 
 #### this package requires
@@ -68,14 +69,14 @@ visualization app
 
 # quickstart standalone app
 #### to run this example, follow the instruction in the script below
-- [assets.app.js](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/app/assets.app.js)
+- [assets.app.js](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/app/assets.app.js)
 ```shell
 # example.sh
 
 # this shell script will download and run a web-demo of visualization as a standalone app
 
 # 1. download standalone app
-curl -O https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/app/assets.app.js
+curl -O https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/app/assets.app.js
 # 2. run standalone app
 PORT=8081 node ./assets.app.js
 # 3. open a browser to http://127.0.0.1:8081 and play with the web-demo
@@ -83,18 +84,18 @@ PORT=8081 node ./assets.app.js
 ```
 
 #### output from browser
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.testExampleSh.browser.%252F.png)](https://kaizhu256.github.io/visualization/build/app/assets.example.html)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleSh.browser.%252F.png)](https://kaizhu256.github.io/node-visualization/build/app/assets.example.html)
 
 #### output from shell
-![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.testExampleSh.svg)
+![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleSh.svg)
 
 
 
 # quickstart example.js
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.testExampleJs.browser.%252F.png)](https://kaizhu256.github.io/visualization/build/app/assets.example.html)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleJs.browser.%252F.png)](https://kaizhu256.github.io/node-visualization/build/app/assets.example.html)
 
 #### to run this example, follow the instruction in the script below
-- [example.js](https://kaizhu256.github.io/visualization/build..beta..travis-ci.org/example.js)
+- [example.js](https://kaizhu256.github.io/node-visualization/build..beta..travis-ci.org/example.js)
 ```javascript
 /*
 example.js
@@ -526,49 +527,40 @@ utility2-comment -->\n\
 ```
 
 #### output from browser
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.testExampleJs.browser.%252F.png)](https://kaizhu256.github.io/visualization/build/app/assets.example.html)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleJs.browser.%252F.png)](https://kaizhu256.github.io/node-visualization/build/app/assets.example.html)
 
 #### output from shell
-![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.testExampleJs.svg)
+![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleJs.svg)
 
 
 
 # extra screenshots
-1. [https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png](https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)
+1. [https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png](https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)
 
-1. [https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png](https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)
+1. [https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png](https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)
 
-1. [https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png](https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://kaizhu256.github.io/visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)
+1. [https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png](https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://kaizhu256.github.io/node-visualization/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)
 
-1. [https://kaizhu256.github.io/visualization/build/screenshot.deployGithub.browser.%252Fvisualization%252Fbuild%252Fapp%252Fassets.swgg.html.png](https://kaizhu256.github.io/visualization/build/screenshot.deployGithub.browser.%252Fvisualization%252Fbuild%252Fapp%252Fassets.swgg.html.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.deployGithub.browser.%252Fvisualization%252Fbuild%252Fapp%252Fassets.swgg.html.png)](https://kaizhu256.github.io/visualization/build/screenshot.deployGithub.browser.%252Fvisualization%252Fbuild%252Fapp%252Fassets.swgg.html.png)
+1. [https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithub.browser.%252Fnode-visualization%252Fbuild%252Fapp%252Fassets.swgg.html.png](https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithub.browser.%252Fnode-visualization%252Fbuild%252Fapp%252Fassets.swgg.html.png)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithub.browser.%252Fnode-visualization%252Fbuild%252Fapp%252Fassets.swgg.html.png)](https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithub.browser.%252Fnode-visualization%252Fbuild%252Fapp%252Fassets.swgg.html.png)
 
-1. [https://kaizhu256.github.io/visualization/build/screenshot.deployGithub.browser.%252Fvisualization%252Fbuild%252Fapp.png](https://kaizhu256.github.io/visualization/build/screenshot.deployGithub.browser.%252Fvisualization%252Fbuild%252Fapp.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.deployGithub.browser.%252Fvisualization%252Fbuild%252Fapp.png)](https://kaizhu256.github.io/visualization/build/screenshot.deployGithub.browser.%252Fvisualization%252Fbuild%252Fapp.png)
+1. [https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithub.browser.%252Fnode-visualization%252Fbuild%252Fapp.png](https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithub.browser.%252Fnode-visualization%252Fbuild%252Fapp.png)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithub.browser.%252Fnode-visualization%252Fbuild%252Fapp.png)](https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithub.browser.%252Fnode-visualization%252Fbuild%252Fapp.png)
 
-1. [https://kaizhu256.github.io/visualization/build/screenshot.deployGithubTest.browser.%252Fvisualization%252Fbuild%252Fapp.png](https://kaizhu256.github.io/visualization/build/screenshot.deployGithubTest.browser.%252Fvisualization%252Fbuild%252Fapp.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.deployGithubTest.browser.%252Fvisualization%252Fbuild%252Fapp.png)](https://kaizhu256.github.io/visualization/build/screenshot.deployGithubTest.browser.%252Fvisualization%252Fbuild%252Fapp.png)
+1. [https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithubTest.browser.%252Fnode-visualization%252Fbuild%252Fapp.png](https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithubTest.browser.%252Fnode-visualization%252Fbuild%252Fapp.png)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithubTest.browser.%252Fnode-visualization%252Fbuild%252Fapp.png)](https://kaizhu256.github.io/node-visualization/build/screenshot.deployGithubTest.browser.%252Fnode-visualization%252Fbuild%252Fapp.png)
 
-1. [https://kaizhu256.github.io/visualization/build/screenshot.deployHeroku.browser.%252Fassets.swgg.html.png](https://kaizhu256.github.io/visualization/build/screenshot.deployHeroku.browser.%252Fassets.swgg.html.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.deployHeroku.browser.%252Fassets.swgg.html.png)](https://kaizhu256.github.io/visualization/build/screenshot.deployHeroku.browser.%252Fassets.swgg.html.png)
+1. [https://kaizhu256.github.io/node-visualization/build/screenshot.npmTest.browser.%252F.png](https://kaizhu256.github.io/node-visualization/build/screenshot.npmTest.browser.%252F.png)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.npmTest.browser.%252F.png)](https://kaizhu256.github.io/node-visualization/build/screenshot.npmTest.browser.%252F.png)
 
-1. [https://kaizhu256.github.io/visualization/build/screenshot.deployHeroku.browser.%252F.png](https://kaizhu256.github.io/visualization/build/screenshot.deployHeroku.browser.%252F.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.deployHeroku.browser.%252F.png)](https://kaizhu256.github.io/visualization/build/screenshot.deployHeroku.browser.%252F.png)
+1. [https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleJs.browser.%252F.png](https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleJs.browser.%252F.png)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleJs.browser.%252F.png)](https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleJs.browser.%252F.png)
 
-1. [https://kaizhu256.github.io/visualization/build/screenshot.deployHerokuTest.browser.%252F.png](https://kaizhu256.github.io/visualization/build/screenshot.deployHerokuTest.browser.%252F.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.deployHerokuTest.browser.%252F.png)](https://kaizhu256.github.io/visualization/build/screenshot.deployHerokuTest.browser.%252F.png)
-
-1. [https://kaizhu256.github.io/visualization/build/screenshot.npmTest.browser.%252F.png](https://kaizhu256.github.io/visualization/build/screenshot.npmTest.browser.%252F.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.npmTest.browser.%252F.png)](https://kaizhu256.github.io/visualization/build/screenshot.npmTest.browser.%252F.png)
-
-1. [https://kaizhu256.github.io/visualization/build/screenshot.testExampleJs.browser.%252F.png](https://kaizhu256.github.io/visualization/build/screenshot.testExampleJs.browser.%252F.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.testExampleJs.browser.%252F.png)](https://kaizhu256.github.io/visualization/build/screenshot.testExampleJs.browser.%252F.png)
-
-1. [https://kaizhu256.github.io/visualization/build/screenshot.testExampleSh.browser.%252F.png](https://kaizhu256.github.io/visualization/build/screenshot.testExampleSh.browser.%252F.png)
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.testExampleSh.browser.%252F.png)](https://kaizhu256.github.io/visualization/build/screenshot.testExampleSh.browser.%252F.png)
+1. [https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleSh.browser.%252F.png](https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleSh.browser.%252F.png)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleSh.browser.%252F.png)](https://kaizhu256.github.io/node-visualization/build/screenshot.testExampleSh.browser.%252F.png)
 
 
 
@@ -584,7 +576,7 @@ utility2-comment -->\n\
     "engines": {
         "node": ">=4.0"
     },
-    "homepage": "https://github.com/kaizhu256/visualization",
+    "homepage": "https://github.com/kaizhu256/node-visualization",
     "keywords": [],
     "license": "MIT",
     "main": "lib.visualization.js",
@@ -597,7 +589,7 @@ utility2-comment -->\n\
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/kaizhu256/visualization.git"
+        "url": "https://github.com/kaizhu256/node-visualization.git"
     },
     "scripts": {
         "build-ci": "utility2 shReadmeTest build_ci.sh",
@@ -615,7 +607,7 @@ utility2-comment -->\n\
 
 
 # changelog of last 50 commits
-[![screenshot](https://kaizhu256.github.io/visualization/build/screenshot.gitLog.svg)](https://github.com/kaizhu256/visualization/commits)
+[![screenshot](https://kaizhu256.github.io/node-visualization/build/screenshot.gitLog.svg)](https://github.com/kaizhu256/node-visualization/commits)
 
 
 
@@ -629,12 +621,12 @@ utility2-comment -->\n\
 shBuildCiAfter() {(set -e
     # shDeployCustom
     shDeployGithub
-    shDeployHeroku
+    # shDeployHeroku
     shReadmeTest example.sh
 )}
 
 shBuildCiBefore() {(set -e
-    shNpmTestPublished
+    #!! shNpmTestPublished
     shReadmeTest example.js
 )}
 

@@ -8,7 +8,7 @@
     "engines": {
         "node": ">=4.0"
     },
-    "homepage": "https://github.com/kaizhu256/visualization",
+    "homepage": "https://github.com/kaizhu256/node-visualization",
     "keywords": [],
     "license": "MIT",
     "main": "lib.visualization.js",
@@ -21,7 +21,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/kaizhu256/visualization.git"
+        "url": "https://github.com/kaizhu256/node-visualization.git"
     },
     "scripts": {
         "build-ci": "utility2 shReadmeTest build_ci.sh",
